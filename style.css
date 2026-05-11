@@ -21,13 +21,14 @@ body{
 }
 
 .sidebar{
-    height: 90vh;
     background-color: #2a2a2a;
     border-radius: 16px;
     border: 1px solid #3a3a3a;
     padding: 40px;
     position: sticky;
     top: 40px;
+
+    height: fit-content;
 }
 
 .main-content{
